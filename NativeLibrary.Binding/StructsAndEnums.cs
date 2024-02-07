@@ -1,0 +1,3 @@
+namespace NativeLibrary.Binding
+{
+}
